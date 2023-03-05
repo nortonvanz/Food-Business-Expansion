@@ -1,5 +1,7 @@
-# .pdf
-  .key
+
+presentation_and_orientations/
+*.pdf
+*.key
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
